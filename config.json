@@ -1,0 +1,12 @@
+{
+  "mysql_config": {
+    "host": "localhost",
+    "database": "google_maps_scraper",
+    "user": "scraper",
+    "password": "hutbid-bosda7-dupBoj"
+  },
+  "auto_save_enabled": true,
+  "default_max_results": 15,
+  "auto_save_interval_seconds": 120,
+  "data_directory": "session_data"
+}

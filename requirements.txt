@@ -1,0 +1,22 @@
+# Dependencias principales
+streamlit>=1.28.0
+pandas>=2.0.0
+plotly>=5.15.0
+
+# Web scraping
+selenium>=4.15.0
+undetected-chromedriver>=3.5.0
+
+# Base de datos
+mysql-connector-python>=8.1.0
+
+# Utilidades
+uuid
+datetime
+json
+threading
+signal
+os
+shutil
+time
+re
